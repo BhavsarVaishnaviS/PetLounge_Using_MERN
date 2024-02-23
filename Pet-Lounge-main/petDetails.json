@@ -1,0 +1,81 @@
+[
+    {
+        "petCategory":"Dog",
+        "petName" : "Pomeranian",
+        "img":"https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-09/Pomeranian.jpg?h=43a79dfa&itok=_PhGIre4",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+      },
+    {
+        "petCategory":"Dog",
+        "petName" : "German Shepherd",
+        "img":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/11/german-shepherd-temperament.jpeg-Cropped.jpg",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+     },
+    {
+        "petCategory":"Dog",
+        "petName" : "RotWheeler",
+        "img":"https://wallpapers.com/images/high/rottweiler-and-a-kitten-fzhkny4oqjujrg64.webp",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+     },
+    {
+        "petCategory":"Dog",
+        "petName" : "Labrodor",
+        "img":"https://images.unsplash.com/photo-1561495376-dc9c7c5b8726?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFicmFkb3J8ZW58MHx8MHx8fDA%3D",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+     },
+    {
+        "petCategory":"Cat",
+        "petName" : "British ShortHair",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1KJabmtmNxyYgBGai5Hrhqu2IKsXpZH7ZA&usqp=CAU",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+     },
+    {
+        "petCategory":"Cat",
+        "petName" : "Rag Doll",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-QW4TnQNtXpCTe-ytkapqK5EyD2D5rkk7g&usqp=CAU",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"   },
+    {
+        "petCategory":"Cat",
+        "petName" : "Birman",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusdjWvsb7tKWdsqPwlt6PBZShTC97GbteLg&usqp=CAU",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"   },
+    {
+        "petCategory":"Cat",
+        "petName" : "Persian Cat",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBm13CrzHub3v_VALDBMe9gj1HlhzhCzdWzg&usqp=CAU",
+        "packages":[{
+            "400":"400",
+            "600":"600"
+        }],
+        "description":"Basic Package includes Stay Charges with Food.Premium Package includes Grooming along with basic package.(Charged DayWise)"
+    }
+
+]
